@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/f22ff5221deadaaeb10e/maintainability)](https://codeclimate.com/github/DeeDeeG/twitter-keycap-ligature-glyphs/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/f22ff5221deadaaeb10e/test_coverage)](https://codeclimate.com/github/DeeDeeG/twitter-keycap-ligature-glyphs/test_coverage)
+
 # twitter-keycap-ligature-glyphs
 Derived work based on the Twemoji glyphs: https://github.com/twitter/twemoji
 
